@@ -17,3 +17,9 @@ Also learning to use
 * *Trying to figure where i'm going wrong*
 
 **Now trial to pull changes made online before i push**
+
+- successfully pulled a edit done in github
+
+:+1: :sparkling_heart:
+
+shall push this edit now
